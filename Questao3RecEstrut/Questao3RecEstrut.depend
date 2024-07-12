@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644952221 source:c:\users\padrao\onedrive\documentos\workspace-codeblocks\questao3recestrut\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

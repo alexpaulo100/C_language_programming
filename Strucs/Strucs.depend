@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1644778065 source:c:\users\padrao\onedrive\documentos\workspace-codeblocks\strucs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635890615 source:c:\users\padrao\documents\workspace-codeblocks\exerc6list7\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

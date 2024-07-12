@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637191899 source:c:\users\padrao\documents\workspace-codeblocks\mediasalarios\main.c
+	<stdio.h>
+	<stdlib.h>
+

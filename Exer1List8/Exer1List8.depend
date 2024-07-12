@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637621397 source:c:\users\padrao\documents\workspace-codeblocks\exer1list8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
